@@ -1,0 +1,28 @@
+---
+# vars file for softwares_install
+local_path: "C:\\ansible_wu.txt"
+softwares:
+    - 1password
+    - 7zip
+    - battle.net
+    - dbeaver
+    - discord
+    - docker-desktop
+    - evernote
+    - firefox
+    - git
+    - github-desktop
+    - googlechrome
+    - grammarly
+    - hyper
+    - lens
+    - python3
+    - razer-synapse-2
+    - slack
+    - spotify
+    - steam
+    - virtualbox
+    - vscode
+    - telegram
+    - whatsapp
+    
