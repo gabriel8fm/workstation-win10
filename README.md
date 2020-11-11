@@ -12,3 +12,4 @@ How to use:
 ansible-playbook -i hosts playbook.yml -u <Admin> -k 
 
 [Ansible Windows documentation](https://docs.ansible.com/ansible/latest/user_guide/windows_setup.html)
+
