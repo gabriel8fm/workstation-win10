@@ -1,4 +1,4 @@
-- name: Default Playbook Windows
+- name: Default Playbook for Windows 10
   hosts: windows
   roles:
     - softwares_install
